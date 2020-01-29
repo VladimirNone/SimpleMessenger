@@ -1,0 +1,5 @@
+E:\Programs\SignalRServer\SignalRServer\obj\Debug\netcoreapp2.1\SignalRServer.csprojAssemblyReference.cache
+E:\Programs\SignalRServer\SignalRServer\obj\Debug\netcoreapp2.1\SignalRServer.RazorAssemblyInfo.cache
+E:\Programs\SignalRServer\SignalRServer\obj\Debug\netcoreapp2.1\SignalRServer.RazorAssemblyInfo.cs
+E:\Programs\SignalRServer\SignalRServer\obj\Debug\netcoreapp2.1\SignalRServer.AssemblyInfoInputs.cache
+E:\Programs\SignalRServer\SignalRServer\obj\Debug\netcoreapp2.1\SignalRServer.AssemblyInfo.cs
